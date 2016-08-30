@@ -12,7 +12,7 @@ The idea is to explain how writing a code with Ruby.
 ----------
  - Ruby installed on your computer.
 
-#### **Download Ruby **
+#### *Download Ruby*
 
 To install Ruby follow the steps according to the OS that you use in:
 
