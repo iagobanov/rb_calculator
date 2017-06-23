@@ -41,11 +41,6 @@ The `case` statement allows us to choose between the options of the calculator.
 **Powered by**
 -----------
 -------------
-**The Dark Side.**
-
-
-![darkside](http://mediacdn.snorgcontent.com/media/catalog/product/d/a/darkside_fullpic.png)
-
 
 **Thank You!**
 ----------
